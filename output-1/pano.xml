@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.13" apprev="18080">
+  <panorama id="node1">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-177.024" projection="4" tilt="5.08798" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_115408_00_030.ins" description="" source="" copyright="" comment="" nodeid="node1" info="" altitude="22.00" longitude="9.588000" latitude="0.453361" heading="0" author="" datetime="04/11/2026 11:54" tags="Appartement" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-177.42" title="Terrasse" description="" id="Point01" distance="4.40303" tilt="4.02" skinid="ht_node" target="-3.9/-10.5/100.0" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_112728_00_002.ins" description="" source="" copyright="" comment="" nodeid="node2" info="" altitude="27.80" longitude="9.587972" latitude="0.453389" heading="0" author="" datetime="04/11/2026 11:27" tags="Appartement" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-301.5" title="Appartement" description="" id="Point01" distance="12.7289" tilt="-4.26" skinid="ht_node" target="-95.0/-1.8/120.0" url="{node6}"/>
+      <hotspot pan="-181.39" title="Retour" description="" id="Point02" distance="4.40303" tilt="-6.52" skinid="ht_node" target="2.2/3.2/120.0" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_113058_00_006.ins" description="" source="" copyright="" comment="" nodeid="node6" info="" altitude="26.10" longitude="9.588083" latitude="0.453361" heading="0" author="" datetime="04/11/2026 11:31" tags="Appartement" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-90.02" title="Sejour" description="" id="Point01" distance="13.7746" tilt="-23.45" skinid="ht_node" target="3.7/1.3/120.0" url="{node3}"/>
+      <hotspot pan="-191.09" title="Sejour" description="" id="Point02" distance="18.0018" tilt="-32.07" skinid="ht_node" target="-85.3/-9.8/100.0" url="{node15}"/>
+      <hotspot pan="-6.46" title="Cuisine" description="" id="Point03" distance="6.86246" tilt="-13.79" skinid="ht_node" target="-0.8/-15.5/108.5" url="{node4}"/>
+      <hotspot pan="-297.69" title="Sortie" description="" id="Point04" distance="12.7289" tilt="-21.64" skinid="ht_node" target="-87.4/-24.1/100.0" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_113017_00_005.ins" description="" source="" copyright="" comment="" nodeid="node3" info="" altitude="28.40" longitude="9.588028" latitude="0.453250" heading="0" author="" datetime="04/11/2026 11:30" tags="Appartement" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-184.61" title="Sejour" description="" id="Point01" distance="13.7746" tilt="-15.49" skinid="ht_node" target="77.9/1.0/120.0" url="{node6}"/>
+      <hotspot pan="-354.32" title="CH2 &amp; CH3" description="" id="Point03" distance="9.74016" tilt="-16.38" skinid="ht_node" target="174.0/-2.3/100.0" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_114103_00_016.ins" description="" source="" copyright="" comment="" nodeid="node15" info="" altitude="17.80" longitude="9.588000" latitude="0.453222" heading="0" author="" datetime="04/11/2026 11:41" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-85.51" title="Sejour" description="" id="Point01" distance="19.5857" tilt="-16.72" skinid="ht_node" target="15.5/-11.2/100.0" url="{node8}"/>
+      <hotspot pan="-185.64" title="Toilette visiteur " description="" id="Point02" distance="12.7292" tilt="-18.21" skinid="ht_node" target="86.6/-7.4/100.0" url="{node16}"/>
+      <hotspot pan="-268.26" title="Cuisine" description="" id="Point03" distance="18.8287" tilt="-9.32" skinid="ht_node" target="-1.0/-7.3/100.0" url="{node4}"/>
+      <hotspot pan="-336.31" title="CH2 &amp; CH3" description="" id="Point04" distance="13.8244" tilt="0.05" skinid="ht_node" target="-174.3/14.2/100.0" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_113456_00_011.ins" description="" source="" copyright="" comment="" nodeid="node8" info="" altitude="22.00" longitude="9.588056" latitude="0.453389" heading="0" author="" datetime="04/11/2026 11:35" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-342.05" title="Sejour" description="" id="Point01" distance="9.22918" tilt="-4.99" skinid="ht_node" target="2.2/-10.1/117.4" url="{node9}"/>
+      <hotspot pan="-173.23" title="Sejour" description="" id="Point02" distance="4.32512" tilt="-8.96" skinid="ht_node" target="-3.3/-5.5/100.0" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_113701_00_013.ins" description="" source="" copyright="" comment="" nodeid="node9" info="" altitude="30.10" longitude="9.588056" latitude="0.453306" heading="0" author="" datetime="04/11/2026 11:37" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-0.13" title="Terrasse" description="" id="Point01" distance="13.7744" tilt="-13.7" skinid="ht_node" target="1.5/-8.6/117.0" url="{node10}"/>
+      <hotspot pan="-163.79" title="sejour" description="" id="Point02" distance="6.81286" tilt="-13.72" skinid="ht_node" target="-8.2/-14.0/120.0" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_113141_00_007.ins" description="" source="" copyright="" comment="" nodeid="node4" info="" altitude="19.20" longitude="9.588028" latitude="0.453389" heading="0" author="" datetime="04/11/2026 11:31" tags="Appartement" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-0.26" title="Terasse cuisine" description="" id="Point01" tilt="-11.34" skinid="ht_node" target="6.9/-12.5/117.0" url="{node7}"/>
+      <hotspot pan="-90.36" title="Cuisine" description="" id="Point02" distance="4.40303" tilt="-22.96" skinid="ht_node" target="17.1/-26.4/117.0" url="{node5}"/>
+      <hotspot pan="-184.2" title="Sejour" description="" id="Point03" distance="6.86246" tilt="-12.91" skinid="ht_node" target="171.5/-12.0/100.0" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_113236_00_008.ins" description="" source="" copyright="" comment="" nodeid="node5" info="" altitude="12.60" longitude="9.588056" latitude="0.453417" heading="0" author="" datetime="04/11/2026 11:32" tags="Appartement" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-205.24" title="Terasse " description="" id="Point02" distance="4.40303" tilt="-9.91" skinid="ht_node" target="28.3/-15.2/100.0" url="{node7}"/>
+      <hotspot pan="-42.47" title="Frigo" description="" id="Point03" tilt="3.22" skinid="ht_info" target="" url=""/>
+      <hotspot pan="-117.79" title="Sejour" description="" id="Point01" distance="6.91285" tilt="-10.17" skinid="ht_node" target="175.6/-18.1/100.0" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_113312_00_009.ins" description="" source="" copyright="" comment="" nodeid="node7" info="" altitude="16.60" longitude="9.588028" latitude="0.453389" heading="0" author="" datetime="04/11/2026 11:33" tags="Appartement" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-177.65" title="Cuisine" description="" id="Point01" tilt="-19.75" skinid="ht_node" target="178.3/-12.4/100.0" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_113736_00_014.ins" description="" source="" copyright="" comment="" nodeid="node10" info="" altitude="28.40" longitude="9.588167" latitude="0.453361" heading="0" author="" datetime="04/11/2026 11:37" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-179.23" title="sejour" description="" id="Point01" distance="13.7744" tilt="-4.36" skinid="ht_node" target="-173.4/-12.1/100.0" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_114820_00_024.ins" description="" source="" copyright="" comment="" nodeid="node11" info="" altitude="31.00" longitude="9.588056" latitude="0.453333" heading="0" author="" datetime="04/11/2026 11:48" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-95.37" title="CH3" description="" id="Point01" distance="8.80605" tilt="-14.32" skinid="ht_node" target="-8.4/-29.7/120.0" url="{node12}"/>
+      <hotspot pan="-181.33" title="Toilette visiteur" description="" id="Point02" distance="4.40303" tilt="-10.04" skinid="ht_node" target="" url="{node13}"/>
+      <hotspot pan="-268.35" title="CH2" description="" id="Point03" distance="6.96186" tilt="-14.04" skinid="ht_node" target="-90.9/-7.6/100.0" url="{node14}"/>
+      <hotspot pan="-2.46" title="Vers séjour" description="" id="Point04" distance="4.32512" tilt="-8.4" skinid="ht_node" target="100.5/-5.2/100.0" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_115108_00_028.ins" description="" source="" copyright="" comment="" nodeid="node12" info="" altitude="28.00" longitude="9.588000" latitude="0.453389" heading="0" author="" datetime="04/11/2026 11:51" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-187.81" title="Sortie CH3" description="" id="Point01" distance="8.80605" tilt="-14.74" skinid="ht_node" target="88.5/-5.7/100.0" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_114857_00_025.ins" description="" source="" copyright="" comment="" nodeid="node13" info="" altitude="29.60" longitude="9.588028" latitude="0.453361" heading="0" author="" datetime="04/11/2026 11:49" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-347.96" title="Sortie salle de bain" description="" id="Point01" distance="4.40303" tilt="-17.47" skinid="ht_node" target="0.4/-12.2/100.0" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_114952_00_026.ins" description="" source="" copyright="" comment="" nodeid="node14" info="" altitude="28.30" longitude="9.588028" latitude="0.453389" heading="0" author="" datetime="04/11/2026 11:49" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-269.71" title="Sortie CH2" description="" id="Point01" distance="6.96186" tilt="-8.61" skinid="ht_node" target="-98.7/-3.8/117.4" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_114201_00_017.ins" description="" source="" copyright="" comment="" nodeid="node16" info="" altitude="17.30" longitude="9.587972" latitude="0.453333" heading="0" author="" datetime="04/11/2026 11:42" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-91.2" title="Sejour" description="" id="Point01" distance="12.7292" tilt="-19.72" skinid="ht_node" target="0.0/0.0/100.0" url="{node15}"/>
+      <hotspot pan="-266.81" title="Toilette" description="" id="Point03" tilt="-10.77" skinid="ht_node" target="-164.4/-14.7/120.0" url="{node17}"/>
+      <hotspot pan="-177.08" title="Entree CH1" description="" id="Point02" distance="15.4556" tilt="-10.16" skinid="ht_node" target="171.0/-5.9/120.0" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_114242_00_018.ins" description="" source="" copyright="" comment="" nodeid="node17" info="" altitude="17.30" longitude="9.587972" latitude="0.453333" heading="0" author="" datetime="04/11/2026 11:42" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-347.3" title="Sortie toilette" description="" id="Point01" tilt="-14.52" skinid="ht_node" target="-89.1/-6.4/120.0" url="{node16}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_114408_00_019.ins" description="" source="" copyright="" comment="" nodeid="node18" info="" altitude="20.90" longitude="9.588111" latitude="0.453333" heading="0" author="" datetime="04/11/2026 11:44" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-11.82" title="Sortie CH1" description="" id="Point01" distance="15.4556" tilt="-13.1" skinid="ht_node" target="5.9/-7.3/120.0" url="{node16}"/>
+      <hotspot pan="-282.83" title="Douche CH1" description="" id="Point02" distance="4.32511" tilt="-12.26" skinid="ht_node" target="6.2/-11.9/100.0" url="{node19}"/>
+      <hotspot pan="-189.77" title="CH1" description="" id="Point03" distance="17.4549" tilt="-6.35" skinid="ht_node" target="-3.9/-11.2/100.0" url="{node20}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_114452_00_020.ins" description="" source="" copyright="" comment="" nodeid="node19" info="" altitude="21.00" longitude="9.588083" latitude="0.453306" heading="0" author="" datetime="04/11/2026 11:44" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-174.21" title="Sortie douche" description="" id="Point01" distance="4.32511" tilt="-10.75" skinid="ht_node" target="-97.4/-2.7/120.0" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingroll="0" width="1920" levelbiashidpi="1.000" height="1920" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata title="DCIM\Camera01\IMG_20261104_114540_00_021.ins" description="" source="" copyright="" comment="" nodeid="node20" info="" altitude="22.30" longitude="9.588000" latitude="0.453444" heading="0" author="" datetime="04/11/2026 11:45" tags="Pano2VR6" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" bordercolor="0x000000" border="1" width="180" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" background="1" height="20" textalpha="1" textcolor="0x000000" borderradius="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot pan="-185.01" title="Sortie CH1" description="" id="Point01" distance="17.4549" tilt="-10.87" skinid="ht_node" target="-15.8/-8.7/100.0" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" softedge="0" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomfov="20" blendtime="1" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" invertwheel="0" contextvr="1" hideabout="0" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" description="" source="" copyright="" comment="" nodeid="master" info="" longitude="" latitude="" heading="0" author="" datetime="" tags="" customnodeid=""/>
+  </masternode>
+</tour>
